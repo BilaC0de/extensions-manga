@@ -2070,9 +2070,9 @@ ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tach
 
 Pornhwa.fr*eu.kanade.tachiyomi.extension.fr.pornhwafrë
 mhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-fr.pornhwafr-v1.4.32.apkzhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.fr.pornhwafr.png"1.4( 21.4.32:0À¶ÒþñÇõò<
-Pornwha.frfr"https://pornhwa.fr0*
+Pornwha.frfr"https://pornhwa.fr0*ˆ
 Poseidon Scans.eu.kanade.tachiyomi.extension.fr.poseidonscansó
-qhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-fr.poseidonscans-v1.4.51.apk~https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.fr.poseidonscans.png"1.4(321.4.51::éÆß±ìýˆ‚|Poseidon Scansfr"https://poseidon-scans.net*ô
+qhttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-fr.poseidonscans-v1.4.51.apk~https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.fr.poseidonscans.png"1.4(321.4.51:AéÆß±ìýˆ‚|Poseidon Scansfr"!https://poseidon-scans.net/series*ô
 Raijin Scans,eu.kanade.tachiyomi.extension.fr.raijinscansï
 ohttps://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-fr.raijinscans-v1.4.61.apk|https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.fr.raijinscans.png"1.4(=21.4.61:5¿‚†×Òô™tRaijin Scansfr"https://raijin-scans.fr*è
 
