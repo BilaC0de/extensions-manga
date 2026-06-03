@@ -21203,12 +21203,12 @@
       "name": "Poseidon Scans",
       "packageName": "eu.kanade.tachiyomi.extension.fr.poseidonscans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-fr.poseidonscans-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-fr.poseidonscans-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.fr.poseidonscans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "8936307069044646761",
@@ -21252,7 +21252,7 @@
           "id": "5434555320749376440",
           "name": "RimuScans",
           "language": "fr",
-          "homeUrl": "https://rimu-scans.fr/"
+          "homeUrl": "https://rimuscan.fr"
         }
       ]
     },
