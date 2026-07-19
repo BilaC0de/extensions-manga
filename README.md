@@ -23,12 +23,12 @@ This repository contains the available extension catalogues for the [Anikku](htt
 copy & paste the following URL:
 
 ```html
-https://raw.githubusercontent.com/BilaC0de/extensions/repo-manga/index.min.json
+https://raw.githubusercontent.com/BilaC0de/extensions-manga/repo-manga/index.min.json
 ```
 
 ### Manual downloads
 
-If you prefer to directly download the APK files, they are available directly in this GitHub repository in the [`repo` branch](https://github.com/BilaC0de/extensions/tree/repo-manga/apk).
+If you prefer to directly download the APK files, they are available directly in this GitHub repository in the [`repo` branch](https://github.com/BilaC0de/extensions-manga/tree/repo-manga/apk).
 
 
 ## Contributing
