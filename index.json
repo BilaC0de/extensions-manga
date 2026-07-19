@@ -19062,6 +19062,27 @@
         ]
       },
       {
+        "name": "CrunchyScan",
+        "packageName": "eu.kanade.tachiyomi.extension.fr.crunchyscan",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-fr.crunchyscan-v1.4.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.fr.crunchyscan.png",
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-fr.crunchyscan-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5122789490740525400",
+            "name": "CrunchyScan",
+            "language": "fr",
+            "homeUrl": "https://crunchyscan.fr"
+          }
+        ]
+      },
+      {
         "name": "Dassou Scan",
         "packageName": "eu.kanade.tachiyomi.extension.fr.dassouscan",
         "resources": {
