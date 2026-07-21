@@ -19820,14 +19820,14 @@
         "name": "Scan-Manga",
         "packageName": "eu.kanade.tachiyomi.extension.fr.scanmanga",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/extensions-manga@repo-manga/apk/tachiyomi-fr.scanmanga-v1.4.23.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/extensions-manga@repo-manga/apk/tachiyomi-fr.scanmanga-v1.4.24.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/extensions-manga@repo-manga/icon/eu.kanade.tachiyomi.extension.fr.scanmanga.png",
-          "jarUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-manga/repo-manga/jar/tachiyomi-fr.scanmanga-v1.4.23.jar"
+          "jarUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-manga/repo-manga/jar/tachiyomi-fr.scanmanga-v1.4.24.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "23",
-        "versionName": "1.4.23",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "versionCode": "24",
+        "versionName": "1.4.24",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "2062108502806113139",
