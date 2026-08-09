@@ -19214,14 +19214,14 @@
         "name": "CrunchyScan",
         "packageName": "eu.kanade.tachiyomi.extension.fr.crunchyscan",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/extensions-manga@repo-manga/apk/tachiyomi-fr.crunchyscan-v1.4.1.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/extensions-manga@repo-manga/apk/tachiyomi-fr.crunchyscan-v1.4.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/extensions-manga@repo-manga/icon/eu.kanade.tachiyomi.extension.fr.crunchyscan.png",
-          "jarUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-manga/repo-manga/jar/tachiyomi-fr.crunchyscan-v1.4.1.jar"
+          "jarUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-manga/repo-manga/jar/tachiyomi-fr.crunchyscan-v1.4.2.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "1",
-        "versionName": "1.4.1",
-        "contentWarning": "CONTENT_WARNING_SAFE",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "5122789490740525400",
