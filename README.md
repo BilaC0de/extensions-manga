@@ -21,7 +21,7 @@ Les extensions sont principalement orientées vers les sites de scanlation franc
 |---|---|
 | Branche de distribution | `repo-manga` |
 | Format d'index | `index.min.json` · `index.pb` |
-| Signature | `a0eda0489dc6b3e8580f8c55957597f0a2ddb238c12d4e315f6c15893d9b2611` |
+| Signature | `51ea36e99556abf7604010ac4e9a8162159a9b8b2e8b02d0fd54446f726d6bc2` |
 | Build | GitHub Actions sur push `dev` |
 
 ## Développement
