@@ -8,7 +8,7 @@ Dépôt de distribution des extensions Mihon développées et maintenues personn
 2. Ajouter l'URL suivante :
 
 ```
-https://raw.githubusercontent.com/BilaC0de/extensions-manga/repo-manga/index.min.json
+https://github.com/BilaC0de/extensions-manga/raw/repo-manga/index.pb
 ```
 
 ## Sources disponibles
