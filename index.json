@@ -16007,13 +16007,13 @@
         "name": "ReiManga",
         "packageName": "eu.kanade.tachiyomi.extension.en.reimanga",
         "resources": {
-          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/48caf28-1/tachiyomi-en.reimanga-v1.4.3.apk",
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/59683ed/tachiyomi-en.reimanga-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/en/reimanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/48caf28-1/tachiyomi-en.reimanga-v1.4.3.jar"
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/59683ed/tachiyomi-en.reimanga-v1.6.4.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
+        "extensionLib": "1.6",
+        "versionCode": "4",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -21610,20 +21610,20 @@
         "name": "Hwago",
         "packageName": "eu.kanade.tachiyomi.extension.id.hwago",
         "resources": {
-          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/48caf28-1/tachiyomi-id.hwago-v1.4.56.apk",
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/59683ed/tachiyomi-id.hwago-v1.6.57.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/id/hwago/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/48caf28-1/tachiyomi-id.hwago-v1.4.56.jar"
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/59683ed/tachiyomi-id.hwago-v1.6.57.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "56",
-        "versionName": "1.4.56",
+        "extensionLib": "1.6",
+        "versionCode": "57",
+        "versionName": "1.6.57",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "5490253431755133280",
             "name": "Hwago",
             "language": "id",
-            "homeUrl": "https://01.hwago.xyz"
+            "homeUrl": "https://02.hwago.xyz"
           }
         ]
       },
@@ -22156,20 +22156,20 @@
         "name": "LumosKomik",
         "packageName": "eu.kanade.tachiyomi.extension.id.lumoskomik",
         "resources": {
-          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/48caf28-1/tachiyomi-id.lumoskomik-v1.4.56.apk",
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/59683ed/tachiyomi-id.lumoskomik-v1.6.57.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/id/lumoskomik/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/48caf28-1/tachiyomi-id.lumoskomik-v1.4.56.jar"
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/59683ed/tachiyomi-id.lumoskomik-v1.6.57.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "56",
-        "versionName": "1.4.56",
+        "extensionLib": "1.6",
+        "versionCode": "57",
+        "versionName": "1.6.57",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "2530259860313477889",
             "name": "LumosKomik",
             "language": "id",
-            "homeUrl": "https://02.lumosgg.com"
+            "homeUrl": "https://03.lumosgg.com"
           }
         ]
       },

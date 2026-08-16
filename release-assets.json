@@ -5141,12 +5141,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.reimanga": {
     "apk": {
-      "name": "tachiyomi-en.reimanga-v1.4.3.apk",
-      "sha256": "46dd53b9579045e26a92542ec07d31f25e9a651e29f264d05c14fdd0a49a6fc8"
+      "name": "tachiyomi-en.reimanga-v1.6.4.apk",
+      "sha256": "2dd7dbf613aecae7b2554ab7f3a4b28703e266d5d98193dd45b897705142fd96"
     },
     "jar": {
-      "name": "tachiyomi-en.reimanga-v1.4.3.jar",
-      "sha256": "17d29867427f29dd61bd747bd149d673e7ca3a528aafa2648142bc5bbade35f6"
+      "name": "tachiyomi-en.reimanga-v1.6.4.jar",
+      "sha256": "4d4c26def2ad0ee2f933d88bf6952689987478dac0f46960b389754da6cecedb"
     }
   },
   "eu.kanade.tachiyomi.extension.en.renascans": {
@@ -7771,12 +7771,12 @@
   },
   "eu.kanade.tachiyomi.extension.id.hwago": {
     "apk": {
-      "name": "tachiyomi-id.hwago-v1.4.56.apk",
-      "sha256": "8814315cca86f23e1ef67453b23288014e4249fc6417263c01b93e2e8a8a9a14"
+      "name": "tachiyomi-id.hwago-v1.6.57.apk",
+      "sha256": "396ed0443b53b4257d8aeee65c2c1003aac755feb0960976eef1d667a4798b01"
     },
     "jar": {
-      "name": "tachiyomi-id.hwago-v1.4.56.jar",
-      "sha256": "47a39495101712c40bdd66e6357c1c9b9feffcdf953829f1ee4179426b426f53"
+      "name": "tachiyomi-id.hwago-v1.6.57.jar",
+      "sha256": "d69a570a4c47551b5c3b0fc88aa38cdfb6674588290417cd31978a4348e02a29"
     }
   },
   "eu.kanade.tachiyomi.extension.id.inazumanga": {
@@ -8031,12 +8031,12 @@
   },
   "eu.kanade.tachiyomi.extension.id.lumoskomik": {
     "apk": {
-      "name": "tachiyomi-id.lumoskomik-v1.4.56.apk",
-      "sha256": "2b3400935701446f1da1507a57fc91dc459de7cbf29e706288302ca59069b603"
+      "name": "tachiyomi-id.lumoskomik-v1.6.57.apk",
+      "sha256": "2faffcfec9b7b9c194324ac52cc3747cb624432ce8c3825172d7c9613d525e8f"
     },
     "jar": {
-      "name": "tachiyomi-id.lumoskomik-v1.4.56.jar",
-      "sha256": "95a494d80576b73e44c9a2fa7b5ffd89905db04dff6d9f50d38145d0a3f346e3"
+      "name": "tachiyomi-id.lumoskomik-v1.6.57.jar",
+      "sha256": "06115d7ee7761dadd6ef7007d69f77b6cfac53597b6ec4bd405ca695f7cddeb1"
     }
   },
   "eu.kanade.tachiyomi.extension.id.maidmanga": {
