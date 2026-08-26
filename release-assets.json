@@ -7401,12 +7401,12 @@
   },
   "eu.kanade.tachiyomi.extension.fr.mangasoriginesfr": {
     "apk": {
-      "name": "tachiyomi-fr.mangasoriginesfr-v1.6.58.apk",
-      "sha256": "f491683a5db73ddc2b5f665e67e3325439cde33ba1151a815b2e3c6c56dcc763"
+      "name": "tachiyomi-fr.mangasoriginesfr-v1.6.59.apk",
+      "sha256": "62560965350934dd29314fbdc32fa53fd01f5f0206f1ac6e231527768c5fff64"
     },
     "jar": {
-      "name": "tachiyomi-fr.mangasoriginesfr-v1.6.58.jar",
-      "sha256": "45acec09de969e9ee23d39f19f3eaafcd1d07f0532fbf99de6b4c60ad5455812"
+      "name": "tachiyomi-fr.mangasoriginesfr-v1.6.59.jar",
+      "sha256": "e381e6d9ea426ed89b5957c55e7ef13209bd6171ff91a3b8137f3adda4088cb5"
     }
   },
   "eu.kanade.tachiyomi.extension.fr.mangasscans": {

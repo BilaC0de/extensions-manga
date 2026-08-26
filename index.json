@@ -20925,13 +20925,13 @@
         "name": "Mangas-Origines.fr",
         "packageName": "eu.kanade.tachiyomi.extension.fr.mangasoriginesfr",
         "resources": {
-          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/5ec190c/tachiyomi-fr.mangasoriginesfr-v1.6.58.apk",
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/9378b7a/tachiyomi-fr.mangasoriginesfr-v1.6.59.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/fr/mangasoriginesfr/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/5ec190c/tachiyomi-fr.mangasoriginesfr-v1.6.58.jar"
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/9378b7a/tachiyomi-fr.mangasoriginesfr-v1.6.59.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "58",
-        "versionName": "1.6.58",
+        "versionCode": "59",
+        "versionName": "1.6.59",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
