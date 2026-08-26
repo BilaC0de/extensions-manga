@@ -7222,11 +7222,11 @@
   "eu.kanade.tachiyomi.extension.fr.hentaiorigines": {
     "apk": {
       "name": "tachiyomi-fr.hentaiorigines-v1.6.55.apk",
-      "sha256": "77da05b333c72927b5dd9d9f54b4482504fefe037d664ddf931171c341527888"
+      "sha256": "6044818b3056ded0eff7b024c9ea8739bbfbba1dfd2f008ba320c25dd9095b28"
     },
     "jar": {
       "name": "tachiyomi-fr.hentaiorigines-v1.6.55.jar",
-      "sha256": "c82a06aa147fcacaa3248492552b4a79a859091e8d7359f07d90b5d9e31b64e4"
+      "sha256": "fa06f73254523bb49ae09a0f31e704a233040faeb90bd5b55808a1916a3a6222"
     }
   },
   "eu.kanade.tachiyomi.extension.fr.hentaiscanreader": {
@@ -7402,11 +7402,11 @@
   "eu.kanade.tachiyomi.extension.fr.mangasoriginesfr": {
     "apk": {
       "name": "tachiyomi-fr.mangasoriginesfr-v1.6.58.apk",
-      "sha256": "856a6c1b78e5e10c98845d6714ba4ee272494c70ed67527f206efbd43cea2156"
+      "sha256": "f491683a5db73ddc2b5f665e67e3325439cde33ba1151a815b2e3c6c56dcc763"
     },
     "jar": {
       "name": "tachiyomi-fr.mangasoriginesfr-v1.6.58.jar",
-      "sha256": "bb23482dac573601a9418cee767385f9935d26961f31d149bc497a7c2d206104"
+      "sha256": "45acec09de969e9ee23d39f19f3eaafcd1d07f0532fbf99de6b4c60ad5455812"
     }
   },
   "eu.kanade.tachiyomi.extension.fr.mangasscans": {
