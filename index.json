@@ -18237,13 +18237,13 @@
         "name": "The Blank",
         "packageName": "eu.kanade.tachiyomi.extension.en.theblank",
         "resources": {
-          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/b957f69-1/tachiyomi-en.theblank-v1.4.58.apk",
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/502250c/tachiyomi-en.theblank-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/en/theblank/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/a96e424/tachiyomi-en.theblank-v1.4.58.jar"
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/502250c/tachiyomi-en.theblank-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104058",
-        "versionName": "1.4.58",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -21888,13 +21888,13 @@
         "name": "Epsilon Scan",
         "packageName": "eu.kanade.tachiyomi.extension.fr.epsilonscan",
         "resources": {
-          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/b957f69-1/tachiyomi-fr.epsilonscan-v1.4.56.apk",
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/502250c/tachiyomi-fr.epsilonscan-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/fr/epsilonscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/a96e424/tachiyomi-fr.epsilonscan-v1.4.56.jar"
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/502250c/tachiyomi-fr.epsilonscan-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104056",
-        "versionName": "1.4.56",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -22728,13 +22728,13 @@
         "name": "Soft Epsilon Scan",
         "packageName": "eu.kanade.tachiyomi.extension.fr.softepsilonscan",
         "resources": {
-          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/b957f69-1/tachiyomi-fr.softepsilonscan-v1.4.56.apk",
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/502250c/tachiyomi-fr.softepsilonscan-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/fr/softepsilonscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/a96e424/tachiyomi-fr.softepsilonscan-v1.4.56.jar"
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/502250c/tachiyomi-fr.softepsilonscan-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104056",
-        "versionName": "1.4.56",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {

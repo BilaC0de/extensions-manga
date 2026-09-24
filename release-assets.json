@@ -5511,12 +5511,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.theblank": {
     "apk": {
-      "name": "tachiyomi-en.theblank-v1.4.58.apk",
-      "sha256": "9636f14b56e580df11a39490ff6085515c6a06769df3472611383d0f8c9c3c40"
+      "name": "tachiyomi-en.theblank-v1.6.1.apk",
+      "sha256": "3946ac91c5b6727090b8d34cffc91736e1d63f173868e02f05e2b0ee9c276dd7"
     },
     "jar": {
-      "name": "tachiyomi-en.theblank-v1.4.58.jar",
-      "sha256": "847e1fd2beab5d6ebebf0bcb5d9b2f1417918357f6eb8cbc255d065187f17179"
+      "name": "tachiyomi-en.theblank-v1.6.1.jar",
+      "sha256": "bfdf2e5706497387b3bbd52791a8818cacebddc60a6046047504674e0672f981"
     }
   },
   "eu.kanade.tachiyomi.extension.en.theduckwebcomics": {
@@ -7211,12 +7211,12 @@
   },
   "eu.kanade.tachiyomi.extension.fr.epsilonscan": {
     "apk": {
-      "name": "tachiyomi-fr.epsilonscan-v1.4.56.apk",
-      "sha256": "1d127da1eefdb4d29222b9c97c1116da8a069fae87f8c2fcfb865624feb97f34"
+      "name": "tachiyomi-fr.epsilonscan-v1.6.1.apk",
+      "sha256": "4e18b75d3c210bedc502f55e3d0ff8a2748ae27ae9298e0fcefd5e740d6025d3"
     },
     "jar": {
-      "name": "tachiyomi-fr.epsilonscan-v1.4.56.jar",
-      "sha256": "d7a2036c8fde03b886de0a4e87cbb22c2f507ffa801ea0e56528299c22008182"
+      "name": "tachiyomi-fr.epsilonscan-v1.6.1.jar",
+      "sha256": "5fe1bcebfc04f1d6cacee639474ac849619a3480d75f087b364824a0a31d65da"
     }
   },
   "eu.kanade.tachiyomi.extension.fr.fmteam": {
@@ -7611,12 +7611,12 @@
   },
   "eu.kanade.tachiyomi.extension.fr.softepsilonscan": {
     "apk": {
-      "name": "tachiyomi-fr.softepsilonscan-v1.4.56.apk",
-      "sha256": "f38cf510ede11e9ed0a8042b05588b81e7c5e8734e78998fb54613ea3c797861"
+      "name": "tachiyomi-fr.softepsilonscan-v1.6.1.apk",
+      "sha256": "e96b68d57029dd1d6f5f436ce37bcf179f07495d31d97cc9d95ccf70813600b3"
     },
     "jar": {
-      "name": "tachiyomi-fr.softepsilonscan-v1.4.56.jar",
-      "sha256": "dbde7207eef43d34a1cb419a7f312ed01106e900630328a62d1f408fdb1feba0"
+      "name": "tachiyomi-fr.softepsilonscan-v1.6.1.jar",
+      "sha256": "6e88f67a9e135790fb4ef887fa4daa236ca0f85fd51c4d0bc1dfe46a91a76aae"
     }
   },
   "eu.kanade.tachiyomi.extension.fr.solarisscans": {
