@@ -7561,12 +7561,12 @@
   },
   "eu.kanade.tachiyomi.extension.fr.scanmanga": {
     "apk": {
-      "name": "tachiyomi-fr.scanmanga-v1.6.28.apk",
-      "sha256": "77c73e33c8b1120b6356d62c411ee04beeae5e51a72eae58a3d954d2c4f5af15"
+      "name": "tachiyomi-fr.scanmanga-v1.6.29.apk",
+      "sha256": "8ffb4539ef6cf9fa155143ebf68fae9ac215f5e775215d4a6495720949bad72d"
     },
     "jar": {
-      "name": "tachiyomi-fr.scanmanga-v1.6.28.jar",
-      "sha256": "ee397a164f2b6d70432f09b547194c606c38dc855c5517d203d353ef1885bab9"
+      "name": "tachiyomi-fr.scanmanga-v1.6.29.jar",
+      "sha256": "1a6ed8edffa072304f6411f1744caedf66dddefe76acb2cf8ac2e102898edd1e"
     }
   },
   "eu.kanade.tachiyomi.extension.fr.scanr": {
