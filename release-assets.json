@@ -5541,12 +5541,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.theblank": {
     "apk": {
-      "name": "tachiyomi-en.theblank-v1.6.1.apk",
-      "sha256": "3946ac91c5b6727090b8d34cffc91736e1d63f173868e02f05e2b0ee9c276dd7"
+      "name": "tachiyomi-en.theblank-v1.6.2.apk",
+      "sha256": "5c57030d8e71c45f0fc9abdd1500d434ab7f517b8644dbb9a5e5bd90321dc089"
     },
     "jar": {
-      "name": "tachiyomi-en.theblank-v1.6.1.jar",
-      "sha256": "bfdf2e5706497387b3bbd52791a8818cacebddc60a6046047504674e0672f981"
+      "name": "tachiyomi-en.theblank-v1.6.2.jar",
+      "sha256": "000c6b8cbcd1949e17edd89b45175ef0131306fbe61712f807fd34b683475d83"
     }
   },
   "eu.kanade.tachiyomi.extension.en.theduckwebcomics": {
@@ -7241,12 +7241,12 @@
   },
   "eu.kanade.tachiyomi.extension.fr.epsilonscan": {
     "apk": {
-      "name": "tachiyomi-fr.epsilonscan-v1.6.1.apk",
-      "sha256": "4e18b75d3c210bedc502f55e3d0ff8a2748ae27ae9298e0fcefd5e740d6025d3"
+      "name": "tachiyomi-fr.epsilonscan-v1.6.2.apk",
+      "sha256": "0c464732ee726ff665cced7d7a94817de830c449708ae6c0789e60bd9e76439b"
     },
     "jar": {
-      "name": "tachiyomi-fr.epsilonscan-v1.6.1.jar",
-      "sha256": "5fe1bcebfc04f1d6cacee639474ac849619a3480d75f087b364824a0a31d65da"
+      "name": "tachiyomi-fr.epsilonscan-v1.6.2.jar",
+      "sha256": "4a7dd4243582ef9970c3efe6ff0090900e0d5663b6139c5d3b5341dcb692a377"
     }
   },
   "eu.kanade.tachiyomi.extension.fr.fmteam": {
@@ -7641,12 +7641,12 @@
   },
   "eu.kanade.tachiyomi.extension.fr.softepsilonscan": {
     "apk": {
-      "name": "tachiyomi-fr.softepsilonscan-v1.6.1.apk",
-      "sha256": "e96b68d57029dd1d6f5f436ce37bcf179f07495d31d97cc9d95ccf70813600b3"
+      "name": "tachiyomi-fr.softepsilonscan-v1.6.3.apk",
+      "sha256": "f3276f5874076845b2125a93200a3cc39961401da870e0053aba8d3b7000f7e7"
     },
     "jar": {
-      "name": "tachiyomi-fr.softepsilonscan-v1.6.1.jar",
-      "sha256": "6e88f67a9e135790fb4ef887fa4daa236ca0f85fd51c4d0bc1dfe46a91a76aae"
+      "name": "tachiyomi-fr.softepsilonscan-v1.6.3.jar",
+      "sha256": "95fefa3157de45e5d85a5d5d3bf125291763392ecacc4c37fda62ca65c8f994c"
     }
   },
   "eu.kanade.tachiyomi.extension.fr.solarisscans": {
