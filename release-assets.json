@@ -7071,12 +7071,12 @@
   },
   "eu.kanade.tachiyomi.extension.fr.aniverse": {
     "apk": {
-      "name": "tachiyomi-fr.aniverse-v1.6.1.apk",
-      "sha256": "499c00fd3ff94bcacb132ec9c61099d6a811d0810f947d1c9eb6ef7d4794fa5d"
+      "name": "tachiyomi-fr.aniverse-v1.6.2.apk",
+      "sha256": "abb9b730b1aaf1f7ca122f3f13ddb931ecadc22171d0ecc976f85554e92c8399"
     },
     "jar": {
-      "name": "tachiyomi-fr.aniverse-v1.6.1.jar",
-      "sha256": "d858910d0daee47b5a2133801f33e45b2e50890702aa7b20890f46fe2e29a2c4"
+      "name": "tachiyomi-fr.aniverse-v1.6.2.jar",
+      "sha256": "f983722abd659203f8f0c8c4bfa7ceb9ad61991f8f5d16e1f445bc617c0f4dd2"
     }
   },
   "eu.kanade.tachiyomi.extension.fr.aralosbd": {
