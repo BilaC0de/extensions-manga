@@ -525,13 +525,13 @@
         "name": "Comikey",
         "packageName": "eu.kanade.tachiyomi.extension.all.comikey",
         "resources": {
-          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/b957f69-0/tachiyomi-all.comikey-v1.6.11.apk",
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-all.comikey-v1.6.12.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/all/comikey/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/b957f69-0/tachiyomi-all.comikey-v1.6.11.jar"
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-all.comikey-v1.6.12.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106011",
-        "versionName": "1.6.11",
+        "versionCode": "106012",
+        "versionName": "1.6.12",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -7225,13 +7225,13 @@
         "name": "XCOMIC",
         "packageName": "eu.kanade.tachiyomi.extension.all.xcomic",
         "resources": {
-          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/b957f69-0/tachiyomi-all.xcomic-v1.6.8.apk",
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-all.xcomic-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/all/xcomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/b957f69-0/tachiyomi-all.xcomic-v1.6.8.jar"
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-all.xcomic-v1.6.9.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106008",
-        "versionName": "1.6.8",
+        "versionCode": "106009",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -9001,13 +9001,13 @@
         "name": "Dilar",
         "packageName": "eu.kanade.tachiyomi.extension.ar.dilar",
         "resources": {
-          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/69c3b83/tachiyomi-ar.dilar-v1.6.16.apk",
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-ar.dilar-v1.6.17.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/ar/dilar/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/69c3b83/tachiyomi-ar.dilar-v1.6.16.jar"
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-ar.dilar-v1.6.17.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106016",
-        "versionName": "1.6.16",
+        "versionCode": "106017",
+        "versionName": "1.6.17",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -17955,13 +17955,13 @@
         "name": "SpyFakku",
         "packageName": "eu.kanade.tachiyomi.extension.en.spyfakku",
         "resources": {
-          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/c3ccbab/tachiyomi-en.spyfakku-v1.6.0.apk",
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-en.spyfakku-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/en/spyfakku/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/c3ccbab/tachiyomi-en.spyfakku-v1.6.0.jar"
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-en.spyfakku-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -18170,13 +18170,13 @@
         "name": "The Blank",
         "packageName": "eu.kanade.tachiyomi.extension.en.theblank",
         "resources": {
-          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/69c3b83/tachiyomi-en.theblank-v1.6.0.apk",
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-en.theblank-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/en/theblank/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/69c3b83/tachiyomi-en.theblank-v1.6.0.jar"
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-en.theblank-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -20769,13 +20769,13 @@
         "name": "NexusScanlation",
         "packageName": "eu.kanade.tachiyomi.extension.es.nexusscanlation",
         "resources": {
-          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/b957f69-1/tachiyomi-es.nexusscanlation-v1.6.5.apk",
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-es.nexusscanlation-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/es/nexusscanlation/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/a96e424/tachiyomi-es.nexusscanlation-v1.6.5.jar"
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-es.nexusscanlation-v1.6.6.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106005",
-        "versionName": "1.6.5",
+        "versionCode": "106006",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -20853,13 +20853,13 @@
         "name": "OrckuMangas",
         "packageName": "eu.kanade.tachiyomi.extension.es.orckumangas",
         "resources": {
-          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/989b659-1/tachiyomi-es.orckumangas-v1.6.1.apk",
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-es.orckumangas-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/es/orckumangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/989b659-1/tachiyomi-es.orckumangas-v1.6.1.jar"
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-es.orckumangas-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -21090,13 +21090,13 @@
         "name": "Submanhwa",
         "packageName": "eu.kanade.tachiyomi.extension.es.submanhwa",
         "resources": {
-          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/9ad1c46/tachiyomi-es.submanhwa-v1.6.0.apk",
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-es.submanhwa-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/es/submanhwa/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/9ad1c46/tachiyomi-es.submanhwa-v1.6.0.jar"
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-es.submanhwa-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -21726,13 +21726,13 @@
         "name": "Epsilon Scan",
         "packageName": "eu.kanade.tachiyomi.extension.fr.epsilonscan",
         "resources": {
-          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/69c3b83/tachiyomi-fr.epsilonscan-v1.6.0.apk",
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-fr.epsilonscan-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/fr/epsilonscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/69c3b83/tachiyomi-fr.epsilonscan-v1.6.0.jar"
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-fr.epsilonscan-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -22566,13 +22566,13 @@
         "name": "Soft Epsilon Scan",
         "packageName": "eu.kanade.tachiyomi.extension.fr.softepsilonscan",
         "resources": {
-          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/69c3b83/tachiyomi-fr.softepsilonscan-v1.6.0.apk",
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-fr.softepsilonscan-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/fr/softepsilonscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/69c3b83/tachiyomi-fr.softepsilonscan-v1.6.0.jar"
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-fr.softepsilonscan-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -25170,13 +25170,13 @@
         "name": "Comic Festa",
         "packageName": "eu.kanade.tachiyomi.extension.ja.comicfesta",
         "resources": {
-          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/989b659-1/tachiyomi-ja.comicfesta-v1.6.1.apk",
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-ja.comicfesta-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/ja/comicfesta/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/989b659-1/tachiyomi-ja.comicfesta-v1.6.1.jar"
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-ja.comicfesta-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -25722,13 +25722,13 @@
         "name": "FireCross",
         "packageName": "eu.kanade.tachiyomi.extension.ja.firecross",
         "resources": {
-          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/0b3c45a/tachiyomi-ja.firecross-v1.6.0.apk",
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-ja.firecross-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/ja/firecross/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/0b3c45a/tachiyomi-ja.firecross-v1.6.0.jar"
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-ja.firecross-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -25887,6 +25887,27 @@
         ]
       },
       {
+        "name": "Hakusensha e-net",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.hakusensha",
+        "resources": {
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-ja.hakusensha-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/ja/hakusensha/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-ja.hakusensha-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "3812676510487645204",
+            "name": "Hakusensha e-net",
+            "language": "ja",
+            "homeUrl": "https://www.hakusensha-e.net"
+          }
+        ]
+      },
+      {
         "name": "Hana To Yume+",
         "packageName": "eu.kanade.tachiyomi.extension.ja.hanayume",
         "resources": {
@@ -25946,6 +25967,27 @@
             "name": "HERO'S Web",
             "language": "ja",
             "homeUrl": "https://heros-web.com"
+          }
+        ]
+      },
+      {
+        "name": "Honto",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.honto",
+        "resources": {
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-ja.honto-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/ja/honto/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-ja.honto-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "4717734884893722363",
+            "name": "Honto",
+            "language": "ja",
+            "homeUrl": "https://honto.jp"
           }
         ]
       },
@@ -26366,6 +26408,27 @@
             "name": "MangaBang Comics",
             "language": "ja",
             "homeUrl": "https://comics.manga-bang.com"
+          }
+        ]
+      },
+      {
+        "name": "MangaBox",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.mangaboxme",
+        "resources": {
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-ja.mangaboxme-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/ja/mangaboxme/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-ja.mangaboxme-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "1624494110013319952",
+            "name": "MangaBox",
+            "language": "ja",
+            "homeUrl": "https://www.mangabox.me"
           }
         ]
       },
@@ -27374,6 +27437,27 @@
             "name": "Sokuyomi",
             "language": "ja",
             "homeUrl": "https://sokuyomi.jp"
+          }
+        ]
+      },
+      {
+        "name": "Sugo Comics",
+        "packageName": "eu.kanade.tachiyomi.extension.ja.sugocomics",
+        "resources": {
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-ja.sugocomics-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/ja/sugocomics/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-ja.sugocomics-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "4036523004624942398",
+            "name": "Sugo Comics",
+            "language": "ja",
+            "homeUrl": "https://nadeshiko-shoten.jp"
           }
         ]
       },
@@ -29805,13 +29889,13 @@
         "name": "Shirai Scans",
         "packageName": "eu.kanade.tachiyomi.extension.pt.shiraiscans",
         "resources": {
-          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/b957f69-2/tachiyomi-pt.shiraiscans-v1.4.1.apk",
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-pt.shiraiscans-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/pt/shiraiscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/0b4ddaf-2/tachiyomi-pt.shiraiscans-v1.4.1.jar"
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-pt.shiraiscans-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104001",
-        "versionName": "1.4.1",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -29847,14 +29931,14 @@
         "name": "Nexus Toons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.spectralscan",
         "resources": {
-          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/b957f69-2/tachiyomi-pt.spectralscan-v1.4.62.apk",
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-pt.spectralscan-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/pt/spectralscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/0b4ddaf-2/tachiyomi-pt.spectralscan-v1.4.62.jar"
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-pt.spectralscan-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104062",
-        "versionName": "1.4.62",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "5304928452449566995",
@@ -30204,14 +30288,14 @@
         "name": "Yomu Mang\u00e1s",
         "packageName": "eu.kanade.tachiyomi.extension.pt.yomumangas",
         "resources": {
-          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/b957f69-2/tachiyomi-pt.yomumangas-v1.4.5.apk",
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-pt.yomumangas-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/pt/yomumangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/0b4ddaf-2/tachiyomi-pt.yomumangas-v1.4.5.jar"
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-pt.yomumangas-v1.6.0.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104005",
-        "versionName": "1.4.5",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "1636954121036022614",
@@ -30867,13 +30951,13 @@
         "name": "WaManga",
         "packageName": "eu.kanade.tachiyomi.extension.ru.wamanga",
         "resources": {
-          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/b957f69-2/tachiyomi-ru.wamanga-v1.6.1.apk",
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-ru.wamanga-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/ru/wamanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/0b4ddaf-2/tachiyomi-ru.wamanga-v1.6.1.jar"
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-ru.wamanga-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -34285,13 +34369,13 @@
         "name": "MoeTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.moetruyen",
         "resources": {
-          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/989b659-1/tachiyomi-vi.moetruyen-v1.6.16.apk",
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-vi.moetruyen-v1.6.17.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/vi/moetruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/989b659-1/tachiyomi-vi.moetruyen-v1.6.16.jar"
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/8faad9a/tachiyomi-vi.moetruyen-v1.6.17.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106016",
-        "versionName": "1.6.16",
+        "versionCode": "106017",
+        "versionName": "1.6.17",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
