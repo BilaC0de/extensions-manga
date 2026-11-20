@@ -26144,13 +26144,13 @@
         "name": "Scan-Manga",
         "packageName": "eu.kanade.tachiyomi.extension.fr.scanmanga",
         "resources": {
-          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/caaceb4/tachiyomi-fr.scanmanga-v1.6.4.apk",
+          "apkUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/9a839b6/tachiyomi-fr.scanmanga-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/BilaC0de/mangas-extensions-source@dev/src/fr/scanmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/caaceb4/tachiyomi-fr.scanmanga-v1.6.4.jar"
+          "jarUrl": "https://github.com/BilaC0de/extensions-manga/releases/download/9a839b6/tachiyomi-fr.scanmanga-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
